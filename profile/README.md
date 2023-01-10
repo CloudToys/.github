@@ -1,2 +1,2 @@
 # CloudToys
-Do something mini projects
+Toy projects, That's it.
